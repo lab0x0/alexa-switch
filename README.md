@@ -19,10 +19,10 @@ General changes:
 3. Flash
 4. Enjoy
 
-![screen shot 2017-10-11 at 9 11 17 pm](https://user-images.githubusercontent.com/415928/31458472-e2b595c6-aec8-11e7-9ba5-bdf452813672.png)
-
 Check this video on YouTube  
 https://youtu.be/ETSe2Z4Oa2M?t=3m30s
+
+![screen shot 2017-10-11 at 9 11 17 pm](https://user-images.githubusercontent.com/415928/31458472-e2b595c6-aec8-11e7-9ba5-bdf452813672.png)
 
 Also check photos of making process  
 https://www.instagram.com/p/BZgwProB___/  
