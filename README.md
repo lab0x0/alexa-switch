@@ -2,9 +2,7 @@
 
 ## What is this?
 
-Four chanels, voise and finger controled ESP8266 switch. 
-
-### Arduino Esp8266 Alexa Multiple Belkin wemo switch emulator
+Arduino Esp8266 Alexa Multiple Belkin wemo switch emulator
 
 This project was derived from https://github.com/kakopappa/arduino-esp8266-alexa-multiple-wemo-switch
 
