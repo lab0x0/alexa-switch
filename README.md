@@ -29,7 +29,9 @@ https://www.instagram.com/p/BZgwProB___/
 https://www.flickr.com/photos/szdiy/sets/72157687156408223  
 
 Initially this project was build on SZDIY • LAB ZERO hackaton   
-https://github.com/lab0x0/hackathon-09.2017
+https://github.com/lab0x0/hackathon-09.2017   
+Thanks to Janis  
+https://github.com/janisselis
 
 ## How to participate?
 
