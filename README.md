@@ -4,6 +4,23 @@
 
 Four chanels, voise and finger controled ESP8266 switch. 
 
+### Arduino Esp8266 Alexa Multiple Belkin wemo switch emulator
+
+This project was derived from https://github.com/kakopappa/arduino-esp8266-alexa-multiple-wemo-switch
+
+General changes:
+ - added more switches
+ - added parallelism with toggle buttons for manual control (when internet is down etc.)
+
+### How to use:
+
+1. Download the code
+2. Open the .ino in the Arduino editor
+2. Change the WI-FI settings
+3. Define switches and callbacks
+3. Flash
+4. Enjoy
+
 ![screen shot 2017-10-11 at 9 11 17 pm](https://user-images.githubusercontent.com/415928/31458472-e2b595c6-aec8-11e7-9ba5-bdf452813672.png)
 
 Check this video on YouTube  
